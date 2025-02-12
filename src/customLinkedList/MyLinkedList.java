@@ -1,7 +1,6 @@
-package linkedList;
+package customLinkedList;
 
 public class MyLinkedList<T> {
-
     private static class Node<T> {
 
         T data;
@@ -66,5 +65,4 @@ public class MyLinkedList<T> {
     public int size() {
         return size;
     }
-
 }
