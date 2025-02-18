@@ -1,4 +1,4 @@
-package customLinkedList;
+package practice.customLinkedList;
 
 public class MyLinkedList<T> {
     private static class Node<T> {
