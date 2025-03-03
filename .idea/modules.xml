@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Turing-test.iml" filepath="$PROJECT_DIR$/Turing-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Turing-academy.iml" filepath="$PROJECT_DIR$/Turing-academy.iml" />
     </modules>
   </component>
 </project>
